@@ -23,7 +23,7 @@ either in the library's root folder or in the root folder of the project includi
 For a complete overview of what the library has to offer, check the [wiki](https://github.com/Lut99/parse-args-values/wiki) page.
 
 ## Dependencies
-The Parse Args Values library doesn't depend on anything. It is, however, designed to work with the [Parse Args](https://github.com/Lut99/parse-args) library.
+The Parse Args library only depends on the [`Parse Args`](https://github.com/Lut99/parse-args) library. It will automatically be pulled and compiled if you use cargo.
 
 ## Contribution
 Do you have a suggestion, bugfix or something you don't like? Let it know by creating an issues in the [issues](https://github.com/Lut99/parse-args-values/issues) page, and we'll look into it as soon as we can.
